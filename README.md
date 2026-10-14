@@ -1,29 +1,152 @@
-<h1 align="center">Hi 👋, I'm Kaushal jangir</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- PROFILE HEADER -->
 
-- 🔭 I’m currently working on [Travel Site](https://github.com/kaushaljangir/TripWay-travel-website)
+<div align="center">
 
-- 🌱 I’m currently learning **React**
+# Hi 👋, I'm Kaushal Jangir
 
-- 👨‍💻 All of my projects are available at [https://kaushaljangir.github.io/my-portfolio/](https://kaushaljangir.github.io/my-portfolio/)
+### Frontend Developer | React Developer in Progress 🇮🇳
 
-- 📫 How to reach me **kaushaljangir264@gmail.com**
+I enjoy building responsive, interactive, and user-friendly web experiences.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NDgNu966H3g6ePd7GQjLZILElUTHzxUV/view](https://drive.google.com/file/d/1NDgNu966H3g6ePd7GQjLZILElUTHzxUV/view)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaushaljangir.github.io/my-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushal-jangir)
+[![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushaljangir264@gmail.com)
 
-- ⚡ Fun fact **Movies, series & chill**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kaushal-jangir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal-jangir" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kaushaljangir45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaushaljangir45" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushaljangir&show_icons=true&locale=en&layout=compact" alt="kaushaljangir" /></p>
+- 🔭 Currently working on **TripWay — a travel website**
+- 🌱 Currently learning **React.js**
+- 💻 Interested in **Frontend Development and UI/UX**
+- 🚀 I enjoy turning ideas into interactive web experiences
+- 🎯 Focused on improving my coding skills and building practical projects
+- 🎬 Fun fact: I love movies, series, and making people laugh!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushaljangir&show_icons=true&locale=en" alt="kaushaljangir" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushaljangir&" alt="kaushaljangir" /></p>
+## 🛠️ Languages and Tools
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,c)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌍 TripWay
+
+A travel website designed to explore destinations through a responsive and engaging interface.
+
+**Highlights**
+- Responsive design
+- Travel-focused UI
+- Interactive website sections
+
+[🔗 View Repository](https://github.com/kaushaljangir/TripWay-travel-website)
+
+</td>
+<td width="50%">
+
+### 🛍️ Amazon Clone — Frontend
+
+An e-commerce frontend project built to practice website layouts and core frontend development.
+
+**Highlights**
+- E-commerce UI
+- Product-focused layouts
+- HTML, CSS and JavaScript practice
+
+[🔗 Explore My Repositories](https://github.com/kaushaljangir?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌦️ Weather App
+
+A weather application built to practice working with APIs and displaying dynamic data.
+
+**Highlights**
+- API integration
+- Dynamic weather information
+- JavaScript and asynchronous requests
+
+[🔗 Explore My Repositories](https://github.com/kaushaljangir?tab=repositories)
+
+</td>
+<td width="50%">
+
+### 💼 Personal Portfolio
+
+My personal website showcasing my projects, skills, and contact information.
+
+**Highlights**
+- Responsive interface
+- Project showcase
+- Personal branding
+
+[🌐 Live Demo](https://kaushaljangir.github.io/my-portfolio/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaushaljangir&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Kaushal's GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushaljangir&layout=compact&hide_border=true&theme=github_dark" alt="Most used programming languages" />
+
+<br/>
+
+<img width="60%" src="https://streak-stats.demolab.com/?user=kaushaljangir&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Kaushal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaushaljangir&theme=github-compact&hide_border=true)](https://github.com/kaushaljangir)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaushal_Jangir-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/kaushal-jangir)
+[![LeetCode](https://img.shields.io/badge/LeetCode-kaushaljangir45-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/kaushaljangir45)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://kaushaljangir.github.io/my-portfolio/)
+[![Email](https://img.shields.io/badge/Email-kaushaljangir264%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kaushaljangir264@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+*Building, learning, and improving one project at a time.*
+
+</div>

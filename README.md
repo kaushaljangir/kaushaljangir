@@ -108,26 +108,27 @@ My personal website showcasing my projects, skills, and contact information.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaushaljangir&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Kaushal's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaushaljangir&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushaljangir&layout=compact&hide_border=true&theme=github_dark" alt="Most used programming languages" />
-
-<br/>
-
-<img width="60%" src="https://streak-stats.demolab.com/?user=kaushaljangir&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushaljangir&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
 </div>
 
----
-
-## 📈 Contribution Activity
+## 🔥 Contribution Streak
 
 <div align="center">
 
-[![Kaushal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaushaljangir&theme=github-compact&hide_border=true)](https://github.com/kaushaljangir)
+<img src="https://streak-stats.demolab.com/?user=kaushaljangir&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushaljangir&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
 ---
 
 ## 🤝 Connect With Me
